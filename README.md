@@ -58,11 +58,6 @@ The dataset (`oil_prices_2426.csv`) contains 500 daily oil price observations fr
 ### 4. Evaluation
 Both models evaluated on identical 90-day holdout period. Out-of-sample metrics used for final comparison (not in-sample fit metrics).
 
-## Results Visualization
-
-![ARIMA vs Prophet Comparison](path-to-your-image.png)
-
-The comparison plot shows both forecasts alongside the historical data. Prophet's confidence intervals are narrower and its predictions track the test period more closely, while ARIMA misses the price spike in late 2025.
 
 ## Limitations and Future Work
 
