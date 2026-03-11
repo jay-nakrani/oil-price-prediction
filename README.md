@@ -20,10 +20,10 @@ The dataset shows a strong upward trend over the 16-month period, with prices ra
 The dataset (`oil_prices_2426.csv`) contains 500 daily oil price observations from September 2024 to February 2026. You'll need to download this file and upload it to your Google Drive or place it in your working directory.
 
 ## Project Structure
-├── oil_price_assignment_v3.ipynb # Complete analysis notebook
-├── oil_prices_2426.csv # Dataset
-├── oil price prediction report.docx # Written report with findings
-└── README.md # This file
+├── oil_price_assignment_v3.ipynb # Complete analysis notebook\n
+├── oil_prices_2426.csv # Dataset\n
+├── oil price prediction report.docx # Written report with findings\n
+└── README.md # This file\n
 
 
 ## Methodology
